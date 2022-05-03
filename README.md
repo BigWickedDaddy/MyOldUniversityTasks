@@ -5,8 +5,9 @@
 ## FirstSem - simple c# hw-s
 
 ## SecondSem
--Xamarin ToDo Application 
--Some Course Works
+-Xamarin ToDo Application.
+
+-Some Course Works.
 
 ## ThirdSem - some HTML layouts
 
